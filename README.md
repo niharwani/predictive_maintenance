@@ -58,7 +58,8 @@ streamlit run app/app.py
 ---
 
 ## 📸 Screenshot
-*Coming soon: add screenshots of app view here!*
+![Screenshot](https://github.com/user-attachments/assets/e2411a3c-15ce-46b2-a2b4-48240a54d608)
+
 
 ---
 
